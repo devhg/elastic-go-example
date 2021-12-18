@@ -1,0 +1,4 @@
+.idea
+
+deployments/es-kibana/volumes/**
+
